@@ -1,18 +1,17 @@
-<!-- ===================================================== -->
-<!--                    PROFILE BANNER                     -->
-<!-- ===================================================== -->
-
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+<img src="YOUR_BANNER_IMAGE_URL" width="100%" />
 </p>
 
-<h1 align="center">
-  <code>maajid@github:~$</code>
-</h1>
+<br>
 
 <p align="center">
-  <b>Software Developer • AI • Backend • Automation</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2200&pause=900&color=00FF41&center=true&vCenter=true&width=760&lines=maajid%40github%3A~%24+whoami;Software+Developer;AI+%7C+Backend+%7C+Automation;maajid%40github%3A~%24+./build+--future" />
 </p>
+
+<p align="center">
+  <code>BUILD • DEBUG • LEARN • SHIP</code>
+</p>
+
+<br>
 
 ---
 
@@ -20,100 +19,236 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                         WHO AM I?                            │
-├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  Name       : Mohammed Maajid                               │
-│  Role       : Software Developer                            │
-│  Education  : B.Tech Computer Science & Engineering         │
-│  University : MS Ramaiah Institute of Technology            │
-│  Location   : Bengaluru, India                              │
+│   ███╗   ███╗ █████╗  █████╗      ██╗██████╗               │
+│   ████╗ ████║██╔══██╗██╔══██╗     ██║██╔══██╗              │
+│   ██╔████╔██║███████║███████║     ██║██║  ██║              │
+│   ██║╚██╔╝██║██╔══██║██╔══██║██   ██║██║  ██║              │
+│   ██║ ╚═╝ ██║██║  ██║██║  ██║╚█████╔╝██████╔╝              │
 │                                                              │
-│  Interests  :                                                 │
-│      → Software Development                                  │
-│      → AI & Intelligent Agents                               │
-│      → Backend Systems                                       │
-│      → Automation                                            │
-│      → Developer Tools                                       │
-│      → Data & Distributed Systems                            │
+│   NAME       : Mohammed Maajid                              │
+│   ROLE       : Software Developer                           │
+│   EDUCATION  : B.Tech Computer Science & Engineering        │
+│   UNIVERSITY : MS Ramaiah Institute of Technology            │
+│   LOCATION   : Bengaluru, India                             │
 │                                                              │
-│  Mission    : Build software that solves real problems.     │
+│   FOCUS      : AI • Backend • Automation • Systems          │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 
-maajid@github:~$ echo $CURRENT_STATUS
+maajid@github:~$ cat about.txt
 
-> Learning.
-> Building.
-> Breaking things.
-> Debugging them.
-> Building them better.
+I turn repetitive problems into software.
 
-maajid@github:~$ apt list --installed
-Languages
-[installed]
+Interested in building:
+→ AI-powered developer tools
+→ Intelligent automation
+→ Backend systems
+→ Data-driven applications
+→ Practical software that solves real problems
 
-✓ Java
-✓ Python
-✓ C++
-✓ C
-✓ SQL
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=700&color=00FF41&width=650&lines=%24+systemctl+status+maajid;%E2%97%8F+maajid.service+-+ACTIVE+(RUNNING);%3E+Learning...;%3E+Building...;%3E+Debugging...;%3E+Shipping..." />
+</p>
 
-Technologies & Frameworks
-[development]
+maajid@github:~$ neofetch
+                    ┌──────────────────────────────┐
+                    │         MAAJID.OS             │
+                    └──────────────────────────────┘
 
-✓ FastAPI
-✓ React
-✓ Next.js
-✓ Node.js
-✓ Tailwind CSS
+  OS          → Human v1.0
+  Shell       → Curiosity
+  Editor      → VS Code
+  Primary     → Java / Python
+  Secondary   → C / C++
+  Database    → SQL / PostgreSQL
+  Environment → Linux / WSL
+  Focus       → Software Engineering
+  Status      → ONLINE
 
-[AI / DATA]
+  CPU         → Problem Solving
+  RAM         → Ideas
+  Storage     → Projects
+  Network     → GitHub
 
-✓ LangChain
-✓ LangGraph
-✓ NumPy
-✓ Pandas
-✓ Scikit-learn
-✓ NetworkX
+maajid@github:~$ ls technologies/
+languages/
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql&theme=dark" />
+</p>
 
-[DATABASES]
+Java       ████████████████████
+Python     ██████████████████░░
+C++        ███████████████░░░░░
+C          ██████████████░░░░░░
+SQL        █████████████████░░░
 
-✓ MySQL
-✓ PostgreSQL
-✓ Redis
-✓ ChromaDB
+web-and-backend/
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs,typescript,tailwind&theme=dark" />
+</p>
 
-[DEVOPS / TOOLS]
+FastAPI
+Node.js
+React
+Next.js
+TypeScript
+Tailwind CSS
 
-✓ Git
-✓ GitHub Actions
-✓ Docker
-✓ Linux
-✓ WSL
-✓ VS Code
+ai-and-data/
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-00FF41?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangGraph-00FF41?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-00FF41?style=for-the-badge&logo=pandas&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-00FF41?style=for-the-badge&logo=numpy&logoColor=black" />
+  <img src="https://img.shields.io/badge/NetworkX-00FF41?style=for-the-badge&logoColor=black" />
+</p>
+
+databases/
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" />
+</p>
+
+MySQL
+PostgreSQL
+Redis
+ChromaDB
+
+tools-and-devops/
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,githubactions,vscode&theme=dark" />
+</p>
 
 maajid@github:~$ ls -la projects/
-🤖 github-automation-agent
-An AI-powered developer automation system designed to monitor repositories, review pull requests, detect issues, analyze logs, identify root causes, and assist with automated fixes.
+drwxr-xr-x  github-automation-agent/
+drwxr-xr-x  traffic-flow-simulator/
+drwxr-xr-x  path-mtu-discovery/
+drwxr-xr-x  java-snake/
+drwxr-xr-x  dsa-lab/
 
-Built with: Python, FastAPI, LangGraph, LangChain, PostgreSQL, Redis, Docker, GitHub Actions.
-🚦 traffic-flow-simulator
-A graph-based traffic simulation that models road networks, calculates routes using graph algorithms, simulates congestion, and visualizes traffic flow.
+./github-automation-agent
+┌──────────────────────────────────────────────────────────────┐
+│                  GITHUB AUTOMATION AGENT                     │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  GitHub Repository                                           │
+│          │                                                   │
+│          ▼                                                   │
+│      Webhooks                                                │
+│          │                                                   │
+│          ▼                                                   │
+│       FastAPI                                                │
+│          │                                                   │
+│          ▼                                                   │
+│      LangGraph                                               │
+│          │                                                   │
+│     ┌────┼────────┬────────────┐                             │
+│     ▼    ▼        ▼            ▼                             │
+│    PR   Debug     RCA       Automation                       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
-Built with: Python, NetworkX, NumPy, Matplotlib.
-🌐 path-mtu-discovery-simulator
-A network simulation that demonstrates packet fragmentation, transmission, and reassembly while visualizing how Path MTU Discovery works.
+Built an AI-powered developer automation system that monitors
+repositories, reviews pull requests, detects issues, analyzes logs,
+identifies root causes and assists with automated fixes.
+Python • FastAPI • LangGraph • LangChain • PostgreSQL • Redis • Docker • GitHub Actions
+./traffic-flow-simulator
+ROAD NETWORK
+      │
+      ▼
+GRAPH MODEL
+      │
+      ▼
+SHORTEST PATH
+      │
+      ▼
+TRAFFIC SIMULATION
+      │
+      ▼
+CONGESTION ANALYSIS
+      │
+      ▼
+VISUALIZATION
 
-Built with: Python, Matplotlib.
-🐍 java-snake
-A desktop Snake game built from scratch in Java, implementing real-time movement, collision detection, food generation, and dynamic player growth.
+Built a graph-based traffic simulation using graph algorithms to
+model road networks, calculate routes, simulate congestion and
+visualize traffic behavior.
+Python • NetworkX • NumPy • Matplotlib
+./path-mtu-discovery
+PACKET
+  │
+  ▼
+MTU CHECK
+  │
+  ├── Fits ────────────────► TRANSMIT
+  │
+  └── Too Large
+          │
+          ▼
+     FRAGMENTATION
+          │
+          ▼
+      TRANSMISSION
+          │
+          ▼
+      REASSEMBLY
+          │
+          ▼
+     ORIGINAL PACKET
 
-Built with: Java, Swing.
-🧠 dsa-lab
-A collection of data structures and algorithm implementations and problem-solving practice focused on interview and competitive programming fundamentals.
+Built a network simulation demonstrating packet fragmentation,
+transmission and reassembly while visualizing Path MTU Discovery.
+Python • Matplotlib
+./java-snake
+INPUT
+  ↓
+MOVEMENT
+  ↓
+COLLISION DETECTION
+  ↓
+FOOD
+  ↓
+GROWTH
+  ↓
+SCORE
 
-Built with: Java.
+Built a Java desktop Snake game with real-time movement, collision
+detection, randomized food generation and dynamic player growth.
+Java • Swing
+./dsa-lab
+DATA STRUCTURES
+│
+├── Arrays
+├── Linked Lists
+├── Stacks
+├── Queues
+├── Trees
+├── Graphs
+├── Hashing
+│
+└── ALGORITHMS
+    ├── Searching
+    ├── Sorting
+    ├── Graph Algorithms
+    └── Dynamic Programming
+
+A collection of Java implementations and problem-solving practice
+focused on data structures, algorithms and technical interviews.
+Java
+maajid@github:~$ ps aux
+PID    PROCESS                         STATE
+
+001    github-automation-agent        [██████████] RUNNING
+002    traffic-flow-simulator        [██████████] RUNNING
+003    network-simulator              [██████████] RUNNING
+004    java-snake                     [██████████] COMPLETE
+005    dsa-practice                   [██████████] RUNNING
+006    next-project                   [███░░░░░░░] LOADING
+
 maajid@github:~$ tree ./interests
 interests/
 │
@@ -124,8 +259,8 @@ interests/
 │
 ├── artificial-intelligence/
 │   ├── ai-agents
-│   ├── langgraph
-│   └── automation
+│   ├── automation
+│   └── llm-applications
 │
 ├── data/
 │   ├── data-engineering
@@ -138,63 +273,91 @@ interests/
     ├── operating-systems
     └── computer-networks
 
-maajid@github:~$ systemctl status
-● maajid.service
+maajid@github:~$ systemctl status maajid
+● maajid.service - Software Developer
 
-   Loaded:     active
-   Status:     ONLINE
+     Loaded:     loaded
+     Active:     active (running)
 
-   Building        [████████████████████] ACTIVE
-   Learning        [████████████████████] ACTIVE
-   Experimenting   [██████████████████░░] ACTIVE
-   Debugging       [████████████████████] ACTIVE
+     Learning       [████████████████████] 100%
+     Building       [████████████████████] 100%
+     Experimenting  [██████████████████░░]  90%
+     Debugging      [████████████████████] 100%
 
-   Current process:
-   └── turning ideas into software
+     Current process:
+     └── turning ideas into software
 
-maajid@github:~$ man philosophy
+maajid@github:~$ man maajid
 MAAJID(1)                    DEVELOPER MANUAL                    MAAJID(1)
 
 NAME
     maajid - software developer
 
+SYNOPSIS
+    maajid [build|debug|learn|ship]
+
 DESCRIPTION
-    Build things.
-    Understand how they work.
-    Break them.
-    Fix them.
-    Repeat.
+    Developer interested in building software that eliminates
+    repetitive work and turns ideas into working systems.
+
+COMMANDS
+
+    build       Create something useful.
+    debug       Find out why it doesn't work.
+    learn       Understand how it works.
+    ship        Put it into production.
 
 PRINCIPLE
+
     Don't just learn technologies.
     Build something with them.
 
-CURRENT OBJECTIVE
-    Become the kind of developer who can take a problem,
-    design the system, write the code, and ship the solution.
+BUGS
+
+    Occasionally assumes "one more feature" will take 10 minutes.
 
 SEE ALSO
-    git(1), linux(1), coffee(1)
+
+    git(1), linux(1), docker(1), coffee(1)
+
+maajid@github:~$ git log --oneline
+┌──────────────────────────────────────────────────────────────┐
+│                       BUILD HISTORY                          │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  feat  → AI-powered developer automation                    │
+│  feat  → Graph-based traffic simulation                      │
+│  feat  → Network packet fragmentation simulator              │
+│  feat  → Java desktop game                                   │
+│  learn → Data structures & algorithms                        │
+│  learn → Operating systems                                   │
+│  learn → Computer networks                                   │
+│  learn → Databases                                           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
 maajid@github:~$ ./connect
 <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
-<a href="YOUR_EMAIL_LINK">
-  <img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
 <a href="YOUR_RESUME_URL">
-  <img src="https://img.shields.io/badge/Resume-View-000000?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESUME-00FF41?style=for-the-badge&logo=readthedocs&logoColor=black" />
 </a>
 
 </p>
 
-maajid@github:~$ exit
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=maajid%40github%3A~%24+exit;Connection+closed.;%5B+but+the+build+continues...+%5D" />
+</p>
 
-Connection closed.
-
-[ but the build continues... ]
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=TERMINAL+VISITS&color=00FF41&style=flat-square" />
+</p>
+```
