@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/glitch-banner.svg" alt="Mohammed Maajid - Software Developer" width="100%" />
+  <img src="./glitch-banner.svg" alt="Mohammed Maajid - Software Developer" width="100%" />
 </p>
 
 <p align="center">
