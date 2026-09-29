@@ -17,7 +17,7 @@
 
 ## `maajid@github:~$ whoami`
 
-
+```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │   ███╗   ███╗ █████╗  █████╗      ██╗██████╗               │
@@ -35,7 +35,7 @@
 │   FOCUS      : AI • Backend • Automation • Systems          │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-
+```
 maajid@github:~$ cat about.txt
 
 I turn repetitive problems into software.
