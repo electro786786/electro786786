@@ -158,8 +158,8 @@ c46a9b1  learn: Databases
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=500&color=00FF41&background=0D1117&repeat=false&vCenter=true&width=560&height=36&lines=maajid%40github%3A~%24+.%2Fstats+--live" alt="stats" />
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=electro786786&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=electro786786&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=500&color=00FF41&background=0D1117&repeat=false&vCenter=true&width=560&height=36&lines=maajid%40github%3A~%24+.%2Fconnect" alt="connect" />
